@@ -1,0 +1,40 @@
+# A plugin to manage content expiration with shortcodes.
+# Copyright (C) 2025 Your Name
+# This file is distributed under the same license as the PACKAGE package.
+# PLUGIN PAL <support@pluginpal.app>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Expiration 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-06 14:00-0500\n"
+"Last-Translator: Plugin Pal <support@pluginpal.app>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: content-expiration.php:18
+msgid "Content Expiration"
+msgstr ""
+
+#: content-expiration.php:19
+msgid "A plugin to manage content expiration with shortcodes."
+msgstr ""
+
+#: content-expiration.php:32
+msgid "Show date must be in the format YYYY-MM-DD."
+msgstr ""
+
+#: content-expiration.php:33
+msgid "Hide date must be in the format YYYY-MM-DD."
+msgstr ""
+
+#: content-expiration.php:41
+msgid "Content is not within the specified date range."
+msgstr ""
+
+#: content-expiration.php:48
+msgid "Expired Content"
+msgstr ""
